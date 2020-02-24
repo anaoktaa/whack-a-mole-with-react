@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/whack-a-mole-with-react/static/css/main.7810a78a.chunk.css",
+    "main.js": "/whack-a-mole-with-react/static/js/main.1e10670b.chunk.js",
+    "main.js.map": "/whack-a-mole-with-react/static/js/main.1e10670b.chunk.js.map",
+    "runtime-main.js": "/whack-a-mole-with-react/static/js/runtime-main.998a4489.js",
+    "runtime-main.js.map": "/whack-a-mole-with-react/static/js/runtime-main.998a4489.js.map",
+    "static/js/2.fd389187.chunk.js": "/whack-a-mole-with-react/static/js/2.fd389187.chunk.js",
+    "static/js/2.fd389187.chunk.js.map": "/whack-a-mole-with-react/static/js/2.fd389187.chunk.js.map",
+    "index.html": "/whack-a-mole-with-react/index.html",
+    "precache-manifest.24d161ad8c296c0cca499e267b0b3ca3.js": "/whack-a-mole-with-react/precache-manifest.24d161ad8c296c0cca499e267b0b3ca3.js",
+    "service-worker.js": "/whack-a-mole-with-react/service-worker.js",
+    "static/css/main.7810a78a.chunk.css.map": "/whack-a-mole-with-react/static/css/main.7810a78a.chunk.css.map",
+    "static/js/2.fd389187.chunk.js.LICENSE.txt": "/whack-a-mole-with-react/static/js/2.fd389187.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/whack-a-mole-with-react/static/media/mole.33f3e860.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.998a4489.js",
+    "static/js/2.fd389187.chunk.js",
+    "static/css/main.7810a78a.chunk.css",
+    "static/js/main.1e10670b.chunk.js"
+  ]
+}
